@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6372992f0d66b0f1b29b310b978306a8",
+    "revision": "a4bcf398df84810e7047e8c35cfd871d",
     "url": "/react-redux-imdb-movies/index.html"
   },
   {
-    "revision": "c0828a4228ea097442bf",
+    "revision": "beef586bb378e5832d72",
     "url": "/react-redux-imdb-movies/static/css/main.40b8334c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-redux-imdb-movies/static/js/2.bb8fd816.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0828a4228ea097442bf",
-    "url": "/react-redux-imdb-movies/static/js/main.fe06ed49.chunk.js"
+    "revision": "beef586bb378e5832d72",
+    "url": "/react-redux-imdb-movies/static/js/main.bd82e6a4.chunk.js"
   },
   {
     "revision": "e22d7201426ec943755a",
