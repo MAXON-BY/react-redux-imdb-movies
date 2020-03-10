@@ -10,7 +10,7 @@
  - react-router-dom
  - gh-pages
 
-##OMDb API
+## OMDb API
 http://www.omdbapi.com/
 
 ## Available Scripts
