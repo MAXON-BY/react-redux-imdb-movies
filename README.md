@@ -8,7 +8,10 @@
  - redux-devtools-extension
  - axios
  - react-router-dom
+ - gh-pages
 
+##OMDb API
+http://www.omdbapi.com/
 
 ## Available Scripts
 
@@ -26,6 +29,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.<br />
 Your app is ready to be deployed!
+
+### `npm run deploy`
+Deploy build version on gitpage
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
