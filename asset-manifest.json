@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-imdb-movies/static/css/main.40b8334c.chunk.css",
+    "main.js": "/react-redux-imdb-movies/static/js/main.1d0d6462.chunk.js",
+    "main.js.map": "/react-redux-imdb-movies/static/js/main.1d0d6462.chunk.js.map",
+    "runtime-main.js": "/react-redux-imdb-movies/static/js/runtime-main.f370de5f.js",
+    "runtime-main.js.map": "/react-redux-imdb-movies/static/js/runtime-main.f370de5f.js.map",
+    "static/js/2.bb8fd816.chunk.js": "/react-redux-imdb-movies/static/js/2.bb8fd816.chunk.js",
+    "static/js/2.bb8fd816.chunk.js.map": "/react-redux-imdb-movies/static/js/2.bb8fd816.chunk.js.map",
+    "index.html": "/react-redux-imdb-movies/index.html",
+    "precache-manifest.412714e8536ec5992e7726a688000c33.js": "/react-redux-imdb-movies/precache-manifest.412714e8536ec5992e7726a688000c33.js",
+    "service-worker.js": "/react-redux-imdb-movies/service-worker.js",
+    "static/css/main.40b8334c.chunk.css.map": "/react-redux-imdb-movies/static/css/main.40b8334c.chunk.css.map",
+    "static/js/2.bb8fd816.chunk.js.LICENSE.txt": "/react-redux-imdb-movies/static/js/2.bb8fd816.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f370de5f.js",
+    "static/js/2.bb8fd816.chunk.js",
+    "static/css/main.40b8334c.chunk.css",
+    "static/js/main.1d0d6462.chunk.js"
+  ]
+}
