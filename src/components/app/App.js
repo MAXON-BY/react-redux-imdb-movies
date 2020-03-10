@@ -12,8 +12,8 @@ function App() {
             <Navbar/>
 
             <Switch>
-                <Route path="/" exact component={Home}/>
-                <Route path="/movie/:id" component={Movie}/>
+                <Route path="react-redux-imdb-movies/" exact component={Home}/>
+                <Route path="react-redux-imdb-movies/movie/:id" component={Movie}/>
             </Switch>
 
             <Footer/>
